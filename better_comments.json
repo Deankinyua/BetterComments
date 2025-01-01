@@ -16,12 +16,12 @@
     "strikethrough": false,
     "backgroundColor": "transparent"
   },
-  {
-    "tag": "?",
-    "color": "#3498DB",
-    "strikethrough": false,
-    "backgroundColor": "transparent"
-  },
+    {
+      "tag": "?",
+      "color": "#ad52aa",
+      "strikethrough": false,
+      "backgroundColor": "#060300"
+    },
   {
     "tag": "//",
     "color": "#F0F2F5",
